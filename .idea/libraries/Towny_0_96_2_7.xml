@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Towny-0.96.2.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../APIs/Towny-0.96.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

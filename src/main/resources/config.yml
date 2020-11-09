@@ -1,0 +1,15 @@
+#True if you want to limit how far it teleports players
+world-border: true
+#How many blocks away they CAN spawn(not will)
+MaxX: 1000000
+MaxY: 1000000
+MinX: -1000000
+MinY: -1000000
+
+#Cooldown between using command in seconds
+default: 1200
+vip: 900
+premium: 720
+elite: 600
+supreme: 480
+kurs: 300

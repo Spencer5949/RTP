@@ -1,0 +1,12 @@
+name: RandomSpawn
+version: ${project.version}
+main: net.kursmc.randomspawn.randomspawn.RandomSpawn
+api-version: 1.16
+authors: [Spencer5949, Safyre11]
+description: Random spawn and rtp plugin for play.kursmc.net
+website: play.kursmc.net
+
+commands:
+  rtp:
+    description: Use this command to teleport to a random location throughout the map
+    usage: /<command>
